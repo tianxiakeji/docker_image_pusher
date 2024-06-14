@@ -5,3 +5,4 @@ xhofe/alist:latest
 tdengine/tdengine
 mysql:latest
 redis:latest
+minio/minio
