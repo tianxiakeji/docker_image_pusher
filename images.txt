@@ -8,3 +8,4 @@ redis:latest
 minio/minio:RELEASE.2021-04-22T15-44-28Z
 emqx/emqx:5.0.21
 perfree/fastdfsweb:latest
+season/fastdfs:latest
