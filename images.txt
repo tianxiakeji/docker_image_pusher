@@ -1,1 +1,1 @@
-zlmediakit:master
+zlmediakit/zlmediakit:master
