@@ -1,1 +1,1 @@
-portainer/agent:2.39.4
+eclipse-temurin:21-jre-noble
